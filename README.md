@@ -18,7 +18,7 @@ MiniOB 整体代码简洁，容易上手，设计了一系列由浅入深的题�
 
 ## 快速上手
 
-为了帮助开发者更好地上手并学习 MiniOB，建议阅读以下内容：
+为了帮助开发者更好地上手并学习 MiniOB，建议阅读内容如下：
 
 1. [MiniOB 框架介绍](https://oceanbase.github.io/miniob/design/miniob-architecture/)
 2. [如何编译 MiniOB 源码](https://oceanbase.github.io/miniob/how_to_build/)
