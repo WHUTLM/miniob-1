@@ -703,7 +703,10 @@ comp_op:
   }
   ; */
 group_by:
-    GROUP BY expression_list{      
+    /* empty */{
+      $$ = nullptr;
+    }
+    | GROUP BY expression_list{      
       $$ = $3;
       //$$ = nullptr;
     }
